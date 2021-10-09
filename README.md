@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Welcome to my page! I'm Ahmed, a code-addicted student from the <img src="https://en.wikipedia.org/wiki/Flag_of_Egypt" width=20/> Egypt, 
+Welcome to my page! I'm Ahmed, a code-addicted student from the <img src="https://commons.wikimedia.org/wiki/File:Flag_of_Egypt.svg" width=20/> Egypt, 
 
 
 ### Projects ✨
